@@ -1,0 +1,40 @@
+[INFO  - 2017-09-21T12:13:02.527Z] GhostDriver - Main - running on port 19486
+[INFO  - 2017-09-21T12:13:02.722Z] Session [375610f0-9ec6-11e7-8ae5-a38b3c7df3f6] - page.settings - {"XSSAuditingEnabled":false,"javascriptCanCloseWindows":true,"javascriptCanOpenWindows":true,"javascriptEnabled":true,"loadImages":true,"localToRemoteUrlAccessEnabled":false,"userAgent":"Mozilla/5.0 (Unknown; Linux x86_64) AppleWebKit/538.1 (KHTML, like Gecko) PhantomJS/2.1.1 Safari/538.1","webSecurityEnabled":true}
+[INFO  - 2017-09-21T12:13:02.722Z] Session [375610f0-9ec6-11e7-8ae5-a38b3c7df3f6] - page.customHeaders:  - {}
+[INFO  - 2017-09-21T12:13:02.722Z] Session [375610f0-9ec6-11e7-8ae5-a38b3c7df3f6] - Session.negotiatedCapabilities - {"browserName":"phantomjs","version":"2.1.1","driverName":"ghostdriver","driverVersion":"1.2.0","platform":"linux-unknown-64bit","javascriptEnabled":true,"takesScreenshot":true,"handlesAlerts":false,"databaseEnabled":false,"locationContextEnabled":false,"applicationCacheEnabled":false,"browserConnectionEnabled":false,"cssSelectorsEnabled":true,"webStorageEnabled":false,"rotatable":false,"acceptSslCerts":false,"nativeEvents":true,"proxy":{"proxyType":"direct"}}
+[INFO  - 2017-09-21T12:13:02.723Z] SessionManagerReqHand - _postNewSessionCommand - New Session Created: 375610f0-9ec6-11e7-8ae5-a38b3c7df3f6
+[ERROR - 2017-09-21T12:13:08.743Z] Session [375610f0-9ec6-11e7-8ae5-a38b3c7df3f6] - page.onError - msg: ReferenceError: Can't find variable: HTMLVideoElement
+[ERROR - 2017-09-21T12:13:08.743Z] Session [375610f0-9ec6-11e7-8ae5-a38b3c7df3f6] - page.onError - stack:
+  (anonymous function) (http://economictimes.indiatimes.com/:3)
+[ERROR - 2017-09-21T12:13:11.825Z] Session [375610f0-9ec6-11e7-8ae5-a38b3c7df3f6] - page.onError - msg: Error: Script error. Script:  Line: 0 Column: 0 StackTrace: undefined
+[ERROR - 2017-09-21T12:13:11.826Z] Session [375610f0-9ec6-11e7-8ae5-a38b3c7df3f6] - page.onError - stack:
+  onerror (https://js.etimg.com/js_common/v-462,minify-1.cms:1)
+[ERROR - 2017-09-21T12:13:11.826Z] Session [375610f0-9ec6-11e7-8ae5-a38b3c7df3f6] - page.onError - msg: TypeError: undefined is not a function (evaluating 'Symbol.for("preactattr")')
+[ERROR - 2017-09-21T12:13:11.826Z] Session [375610f0-9ec6-11e7-8ae5-a38b3c7df3f6] - page.onError - stack:
+  (anonymous function) (http://image.timespoints.iimg.in/tpwidgets/static/dist/js/tpwidget.js?v=135:1)
+  (anonymous function) (http://image.timespoints.iimg.in/tpwidgets/static/dist/js/tpwidget.js?v=135:1)
+  (anonymous function) (http://image.timespoints.iimg.in/tpwidgets/static/dist/js/tpwidget.js?v=135:1)
+  e (http://image.timespoints.iimg.in/tpwidgets/static/dist/js/tpwidget.js?v=135:1)
+  (anonymous function) (http://image.timespoints.iimg.in/tpwidgets/static/dist/js/tpwidget.js?v=135:2)
+  e (http://image.timespoints.iimg.in/tpwidgets/static/dist/js/tpwidget.js?v=135:1)
+  (anonymous function) (http://image.timespoints.iimg.in/tpwidgets/static/dist/js/tpwidget.js?v=135:1)
+  e (http://image.timespoints.iimg.in/tpwidgets/static/dist/js/tpwidget.js?v=135:1)
+  (anonymous function) (http://image.timespoints.iimg.in/tpwidgets/static/dist/js/tpwidget.js?v=135:1)
+[ERROR - 2017-09-21T12:13:25.703Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1505996005687
+[INFO  - 2017-09-21T12:13:26.939Z] ShutdownReqHand - _handle - About to shutdown
+[INFO  - 2017-09-21T12:18:27.402Z] GhostDriver - Main - running on port 6934
+[INFO  - 2017-09-21T12:18:27.618Z] Session [f8fd42f0-9ec6-11e7-bbd1-1dca5b5a33ca] - page.settings - {"XSSAuditingEnabled":false,"javascriptCanCloseWindows":true,"javascriptCanOpenWindows":true,"javascriptEnabled":true,"loadImages":true,"localToRemoteUrlAccessEnabled":false,"userAgent":"Mozilla/5.0 (Unknown; Linux x86_64) AppleWebKit/538.1 (KHTML, like Gecko) PhantomJS/2.1.1 Safari/538.1","webSecurityEnabled":true}
+[INFO  - 2017-09-21T12:18:27.618Z] Session [f8fd42f0-9ec6-11e7-bbd1-1dca5b5a33ca] - page.customHeaders:  - {}
+[INFO  - 2017-09-21T12:18:27.618Z] Session [f8fd42f0-9ec6-11e7-bbd1-1dca5b5a33ca] - Session.negotiatedCapabilities - {"browserName":"phantomjs","version":"2.1.1","driverName":"ghostdriver","driverVersion":"1.2.0","platform":"linux-unknown-64bit","javascriptEnabled":true,"takesScreenshot":true,"handlesAlerts":false,"databaseEnabled":false,"locationContextEnabled":false,"applicationCacheEnabled":false,"browserConnectionEnabled":false,"cssSelectorsEnabled":true,"webStorageEnabled":false,"rotatable":false,"acceptSslCerts":false,"nativeEvents":true,"proxy":{"proxyType":"direct"}}
+[INFO  - 2017-09-21T12:18:27.618Z] SessionManagerReqHand - _postNewSessionCommand - New Session Created: f8fd42f0-9ec6-11e7-bbd1-1dca5b5a33ca
+[ERROR - 2017-09-21T12:18:32.120Z] Session [f8fd42f0-9ec6-11e7-bbd1-1dca5b5a33ca] - page.onError - msg: ReferenceError: Can't find variable: HTMLVideoElement
+[ERROR - 2017-09-21T12:18:32.120Z] Session [f8fd42f0-9ec6-11e7-bbd1-1dca5b5a33ca] - page.onError - stack:
+  (anonymous function) (http://economictimes.indiatimes.com/:3)
+[ERROR - 2017-09-21T12:18:32.796Z] Session [f8fd42f0-9ec6-11e7-bbd1-1dca5b5a33ca] - page.onError - msg: Error: TypeError: null is not an object (evaluating 'doc.getElementById("banner-page").style') Script: http://economictimes.indiatimes.com/ Line: 174 Column: 42 StackTrace: undefined
+[ERROR - 2017-09-21T12:18:32.796Z] Session [f8fd42f0-9ec6-11e7-bbd1-1dca5b5a33ca] - page.onError - stack:
+  onerror (https://js.etimg.com/js_common/v-462,minify-1.cms:1)
+[ERROR - 2017-09-21T12:18:32.796Z] Session [f8fd42f0-9ec6-11e7-bbd1-1dca5b5a33ca] - page.onError - msg: TypeError: null is not an object (evaluating 'doc.getElementById("banner-page").style')
+[ERROR - 2017-09-21T12:18:32.796Z] Session [f8fd42f0-9ec6-11e7-bbd1-1dca5b5a33ca] - page.onError - stack:
+  onload (http://economictimes.indiatimes.com/:174)
+[ERROR - 2017-09-21T12:18:51.134Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1505996331117
+[INFO  - 2017-09-21T12:18:52.377Z] ShutdownReqHand - _handle - About to shutdown
